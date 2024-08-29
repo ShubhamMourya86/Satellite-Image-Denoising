@@ -1,4 +1,3 @@
-# Satellite-Image-Denoising
 ## Problem Statement
 
 Developing a satellite image denoising algorithm targeting speckle noise removal, ensuring clarity enhancement for applications like environmental monitoring. It should be robust against speckle noise, preserving crucial details.
